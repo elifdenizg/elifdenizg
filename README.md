@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Bonjour, je m'appelle __Elif Deniz GÔKTÜRK__ et je suis actuellement **étudiante en Pré-MSc à EPITECH Montpellier**.  <br><br>Avant de rejoindre Epitech, j’ai obtenu une **licence de mathématiques appliquées** à l’Université de Strasbourg.  <br>C’est au cours de cette licence que j’ai eu l’occasion de découvrir la **programmation**, notamment dans le cadre de projets liés aux mathématiques.  <br><br>J’ai alors réalisé à quel point cela me passionnait et j’ai décidé de poursuivre ma carrière dans ce domaine.</p>
+<p align="left">Bonjour, je m'appelle Elif Deniz GÔKTÜRK et je suis actuellement étudiante en Pré-MSc à EPITECH Montpellier.  <br><br>Avant de rejoindre Epitech, j’ai obtenu une licence de mathématiques appliquées à l’Université de Strasbourg.  <br>C’est au cours de cette licence que j’ai eu l’occasion de découvrir la programmation, notamment dans le cadre de projets liés aux mathématiques.  <br><br>J’ai alors réalisé à quel point cela me passionnait et j’ai décidé de poursuivre ma carrière dans ce domaine.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 📚 **Approfondir mes connaissances en programmation** à travers ma formation à Epitech  <br>- 🌐 **Construire mon portfolio web** pour présenter mes projets et mon parcours</p>
+<p align="left">- 📚 Approfondir mes connaissances en programmation à travers ma formation à Epitech  <br>- 🌐 Construire mon portfolio web pour présenter mes projets et mon parcours</p>
 
 ###
 
